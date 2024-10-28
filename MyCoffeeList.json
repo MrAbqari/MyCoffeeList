@@ -3,7 +3,7 @@
 [
     {
         "coffee_id": 1,
-        "coffee_title": "Caffe Latte",
+        "coffee_title": "Caffè Latte",
         "coffee_detail": "Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffè latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.",
         "coffee_thumbnails": "https://raw.githubusercontent.com/MrAbqari/MyCoffeeList/main/images/caffe_latte_thumbnail.png",
         "coffee_poster": "https://raw.githubusercontent.com/MrAbqari/MyCoffeeList/main/images/caffe_latte_poster.jpg"
